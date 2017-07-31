@@ -16,6 +16,12 @@ body {
   text-align: left;
   padding-left: 10%;
 }
+.icon{
+  margin: 0 2px;
+  align: center;
+  height: 2rem;
+  width:  2rem;
+}
 
 .vspacer {
     flex-grow: 0.5;
