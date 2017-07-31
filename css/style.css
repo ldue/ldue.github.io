@@ -1,0 +1,22 @@
+body, html {
+    height: 100%;
+}
+
+body {
+  font-family: monospace;
+  font-size: 4rem;
+  color: #FFFFFF;
+  background: #000000;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.main{
+  text-align: left;
+  padding-left: 10%;
+}
+
+.vspacer {
+    flex-grow: 0.5;
+  }
